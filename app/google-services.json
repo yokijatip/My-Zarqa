@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327092632780",
+    "project_id": "my-zarqa",
+    "storage_bucket": "my-zarqa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327092632780:android:7e66cfdc2cf06d60d89669",
+        "android_client_info": {
+          "package_name": "com.gity.myzarqa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6fWGqRD-uO18awCd93j1qehcXZtRQJnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
